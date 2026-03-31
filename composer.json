@@ -1,6 +1,6 @@
 {
     "name": "theme-ultimate/installer-theme-ultimate-allowed-buttons",
-    "description": "Installer package for Theme Ultimate Allowed Buttons.",
+    "description": "Installer package for Theme Ultimate Button Controler.",
     "type": "contao-provider",
     "license": "proprietary",
     "version": "2.0.0",
@@ -9,7 +9,7 @@
         "theme-ultimate",
         "contao",
         "installer",
-        "allowed-buttons"
+        "button-controler"
     ],
     "authors": [
         {
@@ -18,8 +18,8 @@
         }
     ],
     "support": {
-        "source": "https://github.com/AgenturZentral/theme-ultimate-installer-theme-ultimate-allowed-buttons",
-        "issues": "https://github.com/AgenturZentral/theme-ultimate-installer-theme-ultimate-allowed-buttons/issues",
+        "source": "https://github.com/AgenturZentral/theme-ultimate-installer-theme-ultimate-button-controler",
+        "issues": "https://github.com/AgenturZentral/theme-ultimate-installer-theme-ultimate-button-controler/issues",
         "docs": "https://www.theme-ultimate.de"
     },
     "require": {
