@@ -1,5 +1,5 @@
 {
-    "name": "theme-ultimate/installer-theme-ultimate-allowed-buttons",
+    "name": "theme-ultimate/installer-theme-ultimate-button-controler",
     "description": "Installer package for Theme Ultimate Button Controler.",
     "type": "contao-provider",
     "license": "proprietary",
@@ -24,6 +24,6 @@
     },
     "require": {
         "theme-ultimate/repository-license": "^1.0",
-        "theme-ultimate/theme-ultimate-allowed-buttons": "^2.0"
+        "theme-ultimate/theme-ultimate-button-controler": "^2.0"
     }
 }
