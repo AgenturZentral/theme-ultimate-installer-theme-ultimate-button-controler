@@ -1,6 +1,6 @@
 {
-    "name": "theme-ultimate/installer-theme-ultimate-button-controler",
-    "description": "Installer package for Theme Ultimate Button Controler.",
+    "name": "theme-ultimate/installer-theme-ultimate-button-controller",
+    "description": "Installer package for Theme Ultimate Button Controller.",
     "type": "contao-provider",
     "license": "proprietary",
     "version": "2.0.0",
@@ -9,7 +9,7 @@
         "theme-ultimate",
         "contao",
         "installer",
-        "button-controler"
+        "button-controller"
     ],
     "authors": [
         {
@@ -18,12 +18,12 @@
         }
     ],
     "support": {
-        "source": "https://github.com/AgenturZentral/theme-ultimate-installer-theme-ultimate-button-controler",
-        "issues": "https://github.com/AgenturZentral/theme-ultimate-installer-theme-ultimate-button-controler/issues",
+        "source": "https://github.com/AgenturZentral/theme-ultimate-installer-theme-ultimate-button-controller",
+        "issues": "https://github.com/AgenturZentral/theme-ultimate-installer-theme-ultimate-button-controller/issues",
         "docs": "https://www.theme-ultimate.de"
     },
     "require": {
         "theme-ultimate/repository-license": "^1.0",
-        "theme-ultimate/theme-ultimate-button-controler": "^2.0"
+        "theme-ultimate/theme-ultimate-button-controller": "^2.0"
     }
 }
